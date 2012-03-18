@@ -1,0 +1,9 @@
+C:\Users\MSmith\Documents\My Dropbox\Git\Zeus\Apollo.Analytics.Data\bin\Debug\Apollo.Analytics.Data.dll
+C:\Users\MSmith\Documents\My Dropbox\Git\Zeus\Apollo.Analytics.Data\bin\Debug\Apollo.Analytics.Data.pdb
+C:\Users\MSmith\Documents\My Dropbox\Git\Zeus\Apollo.Analytics.Data\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MSmith\Documents\My Dropbox\Git\Zeus\Apollo.Analytics.Data\obj\Debug\Apollo.Analytics.Data.dll
+C:\Users\MSmith\Documents\My Dropbox\Git\Zeus\Apollo.Analytics.Data\obj\Debug\Apollo.Analytics.Data.pdb
+C:\Users\MSmith\Documents\My Dropbox\Git\Zeus\Apollo.Analytics.Data\bin\Debug\Apollo.Analytics.Abstractions.dll
+C:\Users\MSmith\Documents\My Dropbox\Git\Zeus\Apollo.Analytics.Data\bin\Debug\Apollo.Analytics.Abstractions.pdb
+C:\Users\MSmith\Documents\My Dropbox\Git\Zeus\Apollo.Analytics.Data\bin\Debug\Apollo.Infrastructure.dll
+C:\Users\MSmith\Documents\My Dropbox\Git\Zeus\Apollo.Analytics.Data\bin\Debug\Apollo.Infrastructure.pdb

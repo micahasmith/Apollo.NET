@@ -1,0 +1,5 @@
+C:\Users\MSmith\Documents\My Dropbox\Git\Zeus\Apollo.Infrastructure\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MSmith\Documents\My Dropbox\Git\Zeus\Apollo.Infrastructure\bin\Debug\Apollo.Infrastructure.dll
+C:\Users\MSmith\Documents\My Dropbox\Git\Zeus\Apollo.Infrastructure\bin\Debug\Apollo.Infrastructure.pdb
+C:\Users\MSmith\Documents\My Dropbox\Git\Zeus\Apollo.Infrastructure\obj\Debug\Apollo.Infrastructure.dll
+C:\Users\MSmith\Documents\My Dropbox\Git\Zeus\Apollo.Infrastructure\obj\Debug\Apollo.Infrastructure.pdb
